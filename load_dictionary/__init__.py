@@ -2,7 +2,7 @@
 
 Arguments:
 -text file name (and dictionary path, if needed)
--word length to exclude (defaults to 1)
+-word length to exclude (defaults to 1) (Practice Project [page 33])
 
 Exceptions:
 -IOError if filename not found.
