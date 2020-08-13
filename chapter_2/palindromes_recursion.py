@@ -1,7 +1,7 @@
 """Find palindromes (letter palingrams) in a dictionary file using recursion. (Challenge Project [page 34])"""
 import load_dictionary
 
-word_list = load_dictionary.load('2of4brif.txt')
+word_list = load_dictionary.load('../2of4brif.txt')
 
 
 def is_palindrome(word):
